@@ -64,7 +64,9 @@
 
 10. **git branch** - 
 
-11. **git checkout** - 
+11. **git checkout** - переход Git;
+
+* Для того что бы перейти в главную ветку, требуется ввести команду *git checkout master*.
 
 12. **git merge** - 
 
